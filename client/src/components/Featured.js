@@ -5,13 +5,13 @@ import { RxDotFilled } from "react-icons/rx";
 const Featured = () => {
   const sliders = [
     {
-      url: "/assets/burger_emxbtv.jpg",
+      url: "/assets/burger.jpg",
     },
     {
-      url: "/assets/pizza_osjb4f.jpg",
+      url: "/assets/pizza.jpg",
     },
     {
-      url: "/assets/ric_a4ewxo.jpg",
+      url: "/assets/rice.jpg",
     },
   ];
 
