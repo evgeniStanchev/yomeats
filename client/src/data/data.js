@@ -97,13 +97,6 @@ export const mealData = [
     price: "$140",
   },
   {
-    id: 8,
-    name: "African Salad",
-    category: "Salad",
-    image: "assets/African_Salad.png",
-    price: "$140",
-  },
-  {
     id: 9,
     name: "Kale Salad",
     category: "salad",
@@ -114,7 +107,7 @@ export const mealData = [
     id: 10,
     name: "Ceasar Salad",
     category: "salad",
-    image: "assets/caesar-salad-with-tunа.jpg",
+    image: "assets/caesar-salad-with-tuna.jpg",
     price: "$300",
   },
   {

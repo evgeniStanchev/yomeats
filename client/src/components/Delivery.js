@@ -7,7 +7,7 @@ const Delivery = () => {
         Quick Delivery App
       </h3>
       <div className="w-[1240px] mx-auto grid md:grid-cols-2">
-        <img className="w-[550px] mx-auto my-4" src="assets/two_phones.webp" />
+        <img className="w-[550px] mx-auto my-4" src="assets/two_phones.webp" alt="" />
         <div className="flex flex-col justify-center">
           <p className="text-[#00df9a] font-bold">Get The App</p>
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
